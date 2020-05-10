@@ -1,0 +1,121 @@
+Geography,Rank,Sex,2008,2009,2010,2011,2012
+Canada,Total number of police officers (1),Males,53077,54422,55787,55820,55701
+Canada,Total number of police officers (1),Females,12206,12821,13281,13604,13838
+Canada,Senior officers (2),Males,2560,2591,2742,2600,2517
+Canada,Senior officers (2),Females,215,234,260,273,278
+Canada,Non-commissioned officers (3),Males,14094,14596,14945,15127,15022
+Canada,Non-commissioned officers (3),Females,2169,2455,2666,2842,2942
+Canada,Constables,Males,36423,37235,38100,38093,38162
+Canada,Constables,Females,9822,10132,10355,10489,10618
+Newfoundland and Labrador,Total number of police officers (1),Males,727,749,772,761,749
+Newfoundland and Labrador,Total number of police officers (1),Females,157,168,167,174,177
+Newfoundland and Labrador,Senior officers (2),Males,24,23,23,25,22
+Newfoundland and Labrador,Senior officers (2),Females,4,4,4,6,5
+Newfoundland and Labrador,Non-commissioned officers (3),Males,222,235,234,234,233
+Newfoundland and Labrador,Non-commissioned officers (3),Females,23,27,27,28,30
+Newfoundland and Labrador,Constables,Males,481,491,515,502,494
+Newfoundland and Labrador,Constables,Females,130,137,136,140,142
+Prince Edward Island,Total number of police officers (1),Males,202,203,201,205,205
+Prince Edward Island,Total number of police officers (1),Females,29,31,37,39,42
+Prince Edward Island,Senior officers (2),Males,8,9,8,8,8
+Prince Edward Island,Senior officers (2),Females,0,0,1,1,1
+Prince Edward Island,Non-commissioned officers (3),Males,56,62,63,67,64
+Prince Edward Island,Non-commissioned officers (3),Females,5,4,5,9,7
+Prince Edward Island,Constables,Males,138,132,130,130,133
+Prince Edward Island,Constables,Females,24,27,31,29,34
+Nova Scotia,Total number of police officers (1),Males,1587,1598,1607,1610,1610
+Nova Scotia,Total number of police officers (1),Females,277,279,305,304,324
+Nova Scotia,Senior officers (2),Males,65,59,68,67,65
+Nova Scotia,Senior officers (2),Females,2,3,2,4,4
+Nova Scotia,Non-commissioned officers (3),Males,393,395,404,411,415
+Nova Scotia,Non-commissioned officers (3),Females,37,41,52,54,63
+Nova Scotia,Constables,Males,1129,1144,1135,1132,1130
+Nova Scotia,Constables,Females,238,235,251,246,257
+New Brunswick,Total number of police officers (1),Males,1148,1152,1184,1167,1151
+New Brunswick,Total number of police officers (1),Females,207,212,214,210,213
+New Brunswick,Senior officers (2),Males,50,51,49,53,52
+New Brunswick,Senior officers (2),Females,2,3,4,6,6
+New Brunswick,Non-commissioned officers (3),Males,317,327,342,345,342
+New Brunswick,Non-commissioned officers (3),Females,39,43,47,48,48
+New Brunswick,Constables,Males,781,774,793,769,757
+New Brunswick,Constables,Females,166,166,163,156,159
+Quebec,Total number of police officers (1),Males,12050,12038,12003,12052,12171
+Quebec,Total number of police officers (1),Females,3353,3494,3583,3750,3821
+Quebec,Senior officers (2),Males,1019,1000,987,996,962
+Quebec,Senior officers (2),Females,71,78,85,97,97
+Quebec,Non-commissioned officers (3),Males,3345,3407,3435,3570,3511
+Quebec,Non-commissioned officers (3),Females,560,600,664,764,787
+Quebec,Constables,Males,7686,7631,7581,7486,7698
+Quebec,Constables,Females,2722,2816,2834,2889,2937
+Ontario,Total number of police officers (1),Males,20572,20981,21563,21539,21357
+Ontario,Total number of police officers (1),Females,4373,4577,4743,4848,4917
+Ontario,Senior officers (2),Males,663,692,822,702,671
+Ontario,Senior officers (2),Females,70,73,85,75,81
+Ontario,Non-commissioned officers (3),Males,4664,4719,4802,4800,4727
+Ontario,Non-commissioned officers (3),Females,702,758,814,871,879
+Ontario,Constables,Males,15245,15570,15939,16037,15959
+Ontario,Constables,Females,3601,3746,3844,3902,3957
+Manitoba,Total number of police officers (1),Males,2060,2136,2182,2210,2289
+Manitoba,Total number of police officers (1),Females,359,361,367,383,417
+Manitoba,Senior officers (2),Males,52,55,54,54,58
+Manitoba,Senior officers (2),Females,3,3,5,6,7
+Manitoba,Non-commissioned officers (3),Males,547,561,579,573,617
+Manitoba,Non-commissioned officers (3),Females,67,74,73,74,81
+Manitoba,Constables,Males,1461,1520,1549,1583,1614
+Manitoba,Constables,Females,289,284,289,303,329
+Saskatchewan,Total number of police officers (1),Males,1749,1769,1903,1898,1874
+Saskatchewan,Total number of police officers (1),Females,375,366,399,408,424
+Saskatchewan,Senior officers (2),Males,68,69,68,58,60
+Saskatchewan,Senior officers (2),Females,3,3,2,2,3
+Saskatchewan,Non-commissioned officers (3),Males,546,572,590,627,611
+Saskatchewan,Non-commissioned officers (3),Females,76,91,96,97,107
+Saskatchewan,Constables,Males,1135,1128,1245,1213,1203
+Saskatchewan,Constables,Females,296,272,301,309,314
+Alberta,Total number of police officers (1),Males,4791,5111,5476,5537,5613
+Alberta,Total number of police officers (1),Females,943,1088,1132,1159,1174
+Alberta,Senior officers (2),Males,132,145,155,154,161
+Alberta,Senior officers (2),Females,9,8,11,14,12
+Alberta,Non-commissioned officers (3),Males,1296,1412,1497,1559,1564
+Alberta,Non-commissioned officers (3),Females,157,207,230,241,254
+Alberta,Constables,Males,3363,3554,3824,3824,3888
+Alberta,Constables,Females,777,873,891,904,908
+British Columbia,Total number of police officers (1),Males,6405,6828,7007,7056,6992
+British Columbia,Total number of police officers (1),Females,1729,1799,1855,1896,1895
+British Columbia,Senior officers (2),Males,231,235,238,241,227
+British Columbia,Senior officers (2),Females,14,20,20,22,23
+British Columbia,Non-commissioned officers (3),Males,1804,1906,1992,2004,2040
+British Columbia,Non-commissioned officers (3),Females,323,360,389,411,443
+British Columbia,Constables,Males,4370,4687,4777,4811,4725
+British Columbia,Constables,Females,1392,1419,1446,1463,1429
+Yukon Territory,Total number of police officers (1),Males,101,107,104,107,104
+Yukon Territory,Total number of police officers (1),Females,16,15,17,15,15
+Yukon Territory,Senior officers (2),Males,1,2,4,3,3
+Yukon Territory,Senior officers (2),Females,1,0,0,0,0
+Yukon Territory,Non-commissioned officers (3),Males,38,44,40,42,42
+Yukon Territory,Non-commissioned officers (3),Females,3,3,3,3,5
+Yukon Territory,Constables,Males,62,61,60,62,59
+Yukon Territory,Constables,Females,12,12,14,12,10
+Northwest Territories including Nunavut,Total number of police officers (1),Males,0,0,0,0,0
+Northwest Territories including Nunavut,Total number of police officers (1),Females,0,0,0,0,0
+Northwest Territories including Nunavut,Senior officers (2),Males,0,0,0,0,0
+Northwest Territories including Nunavut,Senior officers (2),Females,0,0,0,0,0
+Northwest Territories including Nunavut,Non-commissioned officers (3),Males,0,0,0,0,0
+Northwest Territories including Nunavut,Non-commissioned officers (3),Females,0,0,0,0,0
+Northwest Territories including Nunavut,Constables,Males,0,0,0,0,0
+Northwest Territories including Nunavut,Constables,Females,0,0,0,0,0
+Northwest Territories,Total number of police officers (1),Males,146,168,172,171,173
+Northwest Territories,Total number of police officers (1),Females,32,28,30,26,26
+Northwest Territories,Senior officers (2),Males,4,5,7,5,5
+Northwest Territories,Senior officers (2),Females,0,0,0,0,0
+Northwest Territories,Non-commissioned officers (3),Males,45,54,59,56,61
+Northwest Territories,Non-commissioned officers (3),Females,10,8,8,7,7
+Northwest Territories,Constables,Males,97,109,106,110,107
+Northwest Territories,Constables,Females,22,20,22,19,19
+Nunavut,Total number of police officers (1),Males,107,110,115,112,109
+Nunavut,Total number of police officers (1),Females,12,15,17,18,16
+Nunavut,Senior officers (2),Males,3,3,3,3,3
+Nunavut,Senior officers (2),Females,0,0,0,0,1
+Nunavut,Non-commissioned officers (3),Males,35,39,39,35,30
+Nunavut,Non-commissioned officers (3),Females,2,4,4,6,8
+Nunavut,Constables,Males,69,68,73,74,76
+Nunavut,Constables,Females,10,11,13,12,7
